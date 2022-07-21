@@ -1,10 +1,10 @@
 # 💼 Portfolio
 
-[Cristian Ivan Aráoz](https://gastonperez.ar)
+[Cristian Ivan Aráoz](https://github.com/crisaraoz)
 
-![gastonperez ar_ (1)](./img/og-image.jpg)
+![cristian Araoz (1)](./img/og-image.jpg)
 
-***Welcome to my first web development portfolio, created with HTML 5, CSS 3 and JavaScript.***
+***Welcome to my web development portfolio, created with HTML 5, CSS 3 and JavaScript.***
 
 ## 🛠️ Framework and libraries used:
 - [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
