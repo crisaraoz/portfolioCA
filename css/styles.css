@@ -11,7 +11,10 @@
 	background-color: #000;
 	color: #fff;
 }
-
+title{
+	margin-left: 1px;
+	margin-right: 1px;
+}
 header {
 	height: 100vh;
 }
