@@ -461,3 +461,53 @@ img {
 		margin: 10px 0 0 0;
 	}
 }
+
+.styReact:hover{
+	cursor: none;
+	background-color: rgb(44, 123, 226);
+}
+.styRedux:hover{
+	cursor: none;
+	background-color: rgb(19, 45, 80);
+}
+.styHooks:hover{
+	cursor: none;
+	background-color: rgb(106, 170, 255);
+}
+.styFirebase:hover{
+	cursor: none;
+	background-color: rgb(235, 79, 8);
+}
+.styJs:hover{
+	cursor: none;
+	background-color: rgb(226, 199, 44);
+}
+.styCss:hover{
+	cursor: none;
+	background-color: rgb(76, 4, 109);
+}
+
+.styHtml:hover{
+	cursor: none;
+	background-color: rgb(255, 11, 105);
+}
+
+.styNext:hover{
+	cursor: none;
+	background-color: rgb(160, 0, 0);
+}
+
+.styAngular:hover{
+	cursor: none;
+	background-color: rgb(255, 6, 6);
+}
+
+.stySpring:hover{
+	cursor: none;
+	background-color: rgb(10, 158, 59);
+}
+
+.stySql:hover{
+	cursor: none;
+	background-color: rgb(53, 47, 47);
+}
